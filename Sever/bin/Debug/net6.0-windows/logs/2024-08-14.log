@@ -1,0 +1,78 @@
+2024-08-14 09:59:15.9671|INFO|Sever.App|Application started
+2024-08-14 10:07:49.1654|INFO|Sever.App|Application started
+2024-08-14 10:08:10.9757|INFO|Sever.MainWindow|Received: hiq
+2024-08-14 10:08:49.6748|INFO|Sever.MainWindow|Received: toi la luong
+2024-08-14 10:09:35.0983|INFO|Sever.MainWindow|Received: toi la longgggwawefawefawef
+2024-08-14 10:45:13.3483|INFO|Sever.App|Application started
+2024-08-14 10:45:37.0159|INFO|Sever.MainWindow|Received: hi
+2024-08-14 10:45:46.8871|INFO|Sever.MainWindow|Received: higg
+2024-08-14 10:46:56.0554|INFO|Sever.App|Application started
+2024-08-14 10:47:48.0400|INFO|Sever.MainWindow|Received: haloae
+2024-08-14 10:48:14.3822|INFO|Sever.MainWindow|Received: ok i know
+2024-08-14 10:48:28.6620|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 10:48:28.6620|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 10:48:51.6962|ERROR|Sever.MainWindow|Error handling client.System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask`1.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at Sever.MainWindow.HandleClientAsync(TcpClient client) in C:\Users\nguye\source\repos\Assignment02\Sever\MainWindow.xaml.cs:line 80
+2024-08-14 10:48:51.7809|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 10:54:29.2423|INFO|Sever.App|Application started
+2024-08-14 10:54:40.5486|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 10:54:40.5486|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 10:54:53.0414|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 10:54:53.0438|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 10:56:28.0649|INFO|Sever.App|Application started
+2024-08-14 10:57:16.7646|INFO|Sever.App|Application started
+2024-08-14 10:58:32.0204|INFO|Sever.App|Application started
+2024-08-14 10:58:47.5123|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 10:58:47.5123|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 10:59:01.0422|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 10:59:01.0446|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 10:59:18.4763|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 10:59:18.4763|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 11:04:43.5005|INFO|Sever.App|Application started
+2024-08-14 11:04:57.6319|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 11:05:08.7572|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 11:07:27.0311|INFO|Sever.App|Application started
+2024-08-14 11:07:52.8405|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 11:09:39.8658|INFO|Sever.App|Application started
+2024-08-14 11:09:56.8064|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 11:12:14.4137|INFO|Sever.App|Application started
+2024-08-14 11:12:33.6002|INFO|Sever.MainWindow|Received: hi
+2024-08-14 11:12:40.2535|INFO|Sever.MainWindow|Client disconnected.
+2024-08-14 11:14:00.3237|INFO|Sever.App|Application started
+2024-08-14 11:14:10.8489|INFO|Sever.MainWindow|Received: jiii
+2024-08-14 11:14:32.4997|INFO|Sever.MainWindow|Received: jiiihh
+2024-08-14 11:14:35.0597|INFO|Sever.MainWindow|Received: jiiihhhawhahaw
+2024-08-14 11:14:38.0208|ERROR|Sever.MainWindow|Error handling client.System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask`1.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at Sever.MainWindow.HandleClientAsync(TcpClient client) in C:\Users\nguye\source\repos\Assignment02\Sever\MainWindow.xaml.cs:line 80
+2024-08-14 11:27:00.7381|INFO|Sever.App|Application started
+2024-08-14 11:27:25.7416|INFO|Sever.MainWindow|Received: hi
+2024-08-14 11:27:43.6508|ERROR|Sever.MainWindow|Error handling client.System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask`1.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at Sever.MainWindow.HandleClientAsync(TcpClient client) in C:\Users\nguye\source\repos\Assignment02\Sever\MainWindow.xaml.cs:line 80
+2024-08-14 11:28:37.6012|INFO|Sever.App|Application started
+2024-08-14 11:28:51.3760|INFO|Sever.MainWindow|Received: hi
+2024-08-14 11:29:30.0792|INFO|Sever.MainWindow|Received: hiuuu
+2024-08-14 11:30:17.4299|INFO|Sever.App|Application started
+2024-08-14 11:34:31.4763|INFO|Sever.App|Application started
+2024-08-14 11:35:15.5655|INFO|Sever.MainWindow|Received: hi
+2024-08-14 11:35:59.8375|INFO|Sever.App|Application started
+2024-08-14 11:36:25.4981|INFO|Sever.MainWindow|Received: hi
+2024-08-14 11:37:26.8806|INFO|Sever.App|Application started
+2024-08-14 11:37:49.5243|INFO|Sever.MainWindow|Received: hi

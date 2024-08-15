@@ -1,0 +1,9 @@
+
+2024-08-15 08:20:22.0974|INFO|Sever.App|Application started
+2024-08-15 08:20:44.2488|INFO|Sever.MainWindow|Received: hiii
+2024-08-15 08:22:20.4333|INFO|Sever.MainWindow|File Chi phí.docx received from client.
+2024-08-15 08:22:20.4333|INFO|Sever.MainWindow|Client disconnected.
+2024-08-15 09:38:32.7306|INFO|Sever.App|Application started
+2024-08-15 09:39:25.1801|INFO|Sever.MainWindow|Server started on 127.0.0.1:800
+2024-08-15 09:39:27.1282|INFO|Sever.MainWindow|Client connected.
+2024-08-15 09:39:30.3073|INFO|Sever.MainWindow|Sent to clients: hi

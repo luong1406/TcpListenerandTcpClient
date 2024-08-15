@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6grkdypfcC0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\Sever.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguye\\.nuget\\packages\\nlog\\5.3.3\\nlog.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

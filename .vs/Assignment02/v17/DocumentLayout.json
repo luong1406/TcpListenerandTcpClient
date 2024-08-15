@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\source\\repos\\Assignment02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78FFC626-94D6-472E-A7A8-4DC5054017D4}|Sever\\Sever.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\sever\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FFC626-94D6-472E-A7A8-4DC5054017D4}|Sever\\Sever.csproj|solutionrelative:sever\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\client\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|solutionrelative:client\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\client\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|solutionrelative:client\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FFC626-94D6-472E-A7A8-4DC5054017D4}|Sever\\Sever.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\sever\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{78FFC626-94D6-472E-A7A8-4DC5054017D4}|Sever\\Sever.csproj|solutionrelative:sever\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FFC626-94D6-472E-A7A8-4DC5054017D4}|Sever\\Sever.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\sever\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78FFC626-94D6-472E-A7A8-4DC5054017D4}|Sever\\Sever.csproj|solutionrelative:sever\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FFC626-94D6-472E-A7A8-4DC5054017D4}|Sever\\Sever.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\sever\\connectionstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FFC626-94D6-472E-A7A8-4DC5054017D4}|Sever\\Sever.csproj|solutionrelative:sever\\connectionstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\client\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|solutionrelative:client\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FFC626-94D6-472E-A7A8-4DC5054017D4}|Sever\\Sever.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\sever\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FFC626-94D6-472E-A7A8-4DC5054017D4}|Sever\\Sever.csproj|solutionrelative:sever\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|solutionrelative:client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FFC626-94D6-472E-A7A8-4DC5054017D4}|Sever\\Sever.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\sever\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FFC626-94D6-472E-A7A8-4DC5054017D4}|Sever\\Sever.csproj|solutionrelative:sever\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\client\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CE8B59F-56E5-40DB-AA6D-EF47120F8036}|Client\\Client.csproj|solutionrelative:client\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FFC626-94D6-472E-A7A8-4DC5054017D4}|Sever\\Sever.csproj|c:\\users\\nguye\\source\\repos\\assignment02\\sever\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78FFC626-94D6-472E-A7A8-4DC5054017D4}|Sever\\Sever.csproj|solutionrelative:sever\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Client\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Client\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAxwMIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:24:19.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Sever\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Sever\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAwJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:47:40.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Client\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\MainWindow.xaml",
+              "RelativeToolTip": "Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-13T07:24:21.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Sever\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\AssemblyInfo.cs",
+              "RelativeToolTip": "Sever\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:50:47.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Sever\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\MainWindow.xaml",
+              "RelativeToolTip": "Sever\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-13T07:47:41.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConnectionStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\ConnectionStatistics.cs",
+              "RelativeDocumentMoniker": "Sever\\ConnectionStatistics.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\ConnectionStatistics.cs",
+              "RelativeToolTip": "Sever\\ConnectionStatistics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:38:25.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nlog.config",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\Nlog.config",
+              "RelativeDocumentMoniker": "Client\\Nlog.config",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\Nlog.config",
+              "RelativeToolTip": "Client\\Nlog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-13T10:40:59.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Client\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\App.xaml.cs",
+              "RelativeToolTip": "Client\\App.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:42:00.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nlog.config",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\Nlog.config",
+              "RelativeDocumentMoniker": "Sever\\Nlog.config",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\Nlog.config",
+              "RelativeToolTip": "Sever\\Nlog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-13T17:47:40.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Client\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\AssemblyInfo.cs",
+              "RelativeToolTip": "Client\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:31:18.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAGUTAAAAAAAAAIAwwG0TAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-14T04:04:12.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Client.csproj",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T08:02:09.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\App.config",
+              "RelativeDocumentMoniker": "Client\\App.config",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\App.config",
+              "RelativeToolTip": "Client\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-14T03:07:31.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\App.xaml",
+              "RelativeDocumentMoniker": "Sever\\App.xaml",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\App.xaml",
+              "RelativeToolTip": "Sever\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-13T07:57:34.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Sever\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Sever\\App.xaml.cs",
+              "RelativeToolTip": "Sever\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:42:55.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\App.xaml",
+              "RelativeDocumentMoniker": "Client\\App.xaml",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\Assignment02\\Client\\App.xaml",
+              "RelativeToolTip": "Client\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-13T07:31:19.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

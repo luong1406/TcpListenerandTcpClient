@@ -1,0 +1,17 @@
+2024-08-13 17:45:02.5848|INFO|Sever.App|Application started
+2024-08-13 17:45:53.4287|INFO|Sever.MainWindow|Received: hi
+2024-08-13 17:46:04.4177|INFO|Sever.MainWindow|Received: hi222
+2024-08-13 17:46:05.0368|INFO|Sever.MainWindow|Received: hi222
+2024-08-13 17:46:06.3988|INFO|Sever.MainWindow|Received: hi222
+2024-08-13 17:47:13.7370|ERROR|Sever.MainWindow|Error handling client.System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask`1.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at Sever.MainWindow.HandleClientAsync(TcpClient client) in C:\Users\nguye\source\repos\Assignment02\Sever\MainWindow.xaml.cs:line 78
+2024-08-13 17:49:03.2256|INFO|Sever.App|Application started
+2024-08-13 17:49:20.6343|INFO|Sever.MainWindow|Received: hi
+2024-08-13 17:49:46.5245|INFO|Sever.MainWindow|Received: cho toi 1 deuy uoc
+2024-08-13 17:51:47.2315|INFO|Sever.MainWindow|Client disconnected.
